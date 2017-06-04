@@ -1,6 +1,9 @@
 # webdev
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to demonstrate Ring.
+Ring - an adapter to convert the requests to clojure map and 
+deliver the response as another clojure map. The response comes through
+handler which responds corresponding to the routes. (uri)
 
 ## Usage
 
