@@ -1,4 +1,7 @@
-# My Web App using Clojure (Ring as adapter and compojure to properly manage the routers and corresponding handlers)
+# Web Application in Clojure (Ring as adapter and compojure to properly manage the routers and corresponding handlers)
+
+## Why Clojure for Webapp?
+I have got my friends constantly asking, why Clojure for web-app! I wouldn't answer it until they atleast get to know what clojure is, or atleast gooooogle! I will bear in mind, not everyone wants popular thing to solve their problem, nor popular things are not always the best to solve your problem!
 
 http://practicalli.github.io/clojure-webapps/introducing-ring/
 
