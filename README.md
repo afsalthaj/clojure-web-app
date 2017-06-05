@@ -3,7 +3,7 @@
 ## Why Clojure for Webapp?
 I have seen self acclaimed smarts constantly coming up with the same boring question: `Why the "new thing"? we have the "old thing" working perfectly fine` and then they throw out a few jargons which only they themselves in this universe..... Ok! So "why Clojure for web-app!" Probably the first answer a functional programming approach to develop webapp with a well developed ecosystem and rest is google about easy concurrency, easy abstractions and scalability, properly managed state transitions with clojure!  
 
-I always learned from the smartest colleagues around - the one thing - for last couple of years - not everyone wants `the popular` to solve their problem, nor they believe `the popular` is the best to solve all their problems! They don't believe in how many people can read the code. They embrace the situation of noone being maintaining their code once deployed. The statement is applicable to any ecosystem that embraces functional programming and not just clojure!
+I always learned from the smartest colleagues around - the one thing - for last couple of years - not everyone wants `the popular` to solve their problem, nor they believe `the popular` is the best to solve all their problems! They don't believe in how many people can read the code. They embrace the situation of noone messing around with an already deployed code. If there is anything else remaining by any chance, that's pragmatism - fix issues somehow! The statement is applicable to any ecosystem of software engineering - not just functional programming.!
 
 http://practicalli.github.io/clojure-webapps/introducing-ring/
 
